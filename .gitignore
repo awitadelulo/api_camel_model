@@ -1,0 +1,11 @@
+app/config.py
+**/__pycache__/
+.env
+**/.vscode/
+
+
+# Archivos JSON de datos
+data/*.json
+
+
+
